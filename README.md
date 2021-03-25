@@ -12,3 +12,5 @@ Run this website locally:
 4. Use `http-server` to quickly start up a local server; from your code's folder run `npx http-server`. You should see a timeline of Whitney Houston's amazing and tragic life.
 
 Build your own JSON structures for a new timeline, [following the docs](https://timeline.knightlab.com/docs/json-format.html).
+
+View this website [here](https://digital-humanities-toolbox.github.io/timeline-builder/)
