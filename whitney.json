@@ -13,8 +13,8 @@
 	"events": [
 		{
 			"media": {
-				"url": "{{ static_url }}/img/examples/houston/family.jpg",
-				"caption": "Houston's mother and Gospel singer, Cissy Houston (left) and cousin Dionne Warwick.",
+				"url": "https://s.abcnews.com/images/Entertainment/whitney-cissy-dionne-gty-er-180711_hpEmbed_21x16_992.jpg",
+				"caption": "Houston's with her mother and Gospel singer, Cissy Houston and cousin Dionne Warwick.",
 				"credit": "Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
 			},
 			"start_date": {
