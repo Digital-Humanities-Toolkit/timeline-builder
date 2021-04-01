@@ -13,7 +13,7 @@ Run this website locally:
 
 Build your own JSON structures for a new timeline, [following the docs](https://timeline.knightlab.com/docs/json-format.html).
 
-View this example [timeline](https://digital-humanities-toolbox.github.io/timeline-builder/)
+View this example [timeline](https://digital-humanities-toolkit.github.io/timeline-builder/)
 
 ![timeline sample](timeline-example.png)
 
