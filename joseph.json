@@ -1,30 +1,30 @@
 {
 	"title": {
 		"media": {
-			"url": "//www.flickr.com/photos/tm_10001/2310475988/",
-			"caption": "Whitney Houston performing on her My Love is Your Love Tour in Hamburg.",
-			"credit": "flickr/<a href='http://www.flickr.com/photos/tm_10001/'>tm_10001</a>"
+			"url": "https://assets.rbl.ms/25589886/origin.jpg",
+			"caption": "Joseph Weizenbaum",
+			"credit": "<a href='https://spectrum.ieee.org/why-people-demanded-privacy-to-confide-in-the-worlds-first-chatbot'>IEEE Spectrum</a>"
 		},
 		"text": {
-			"headline": "Whitney Houston<br/> 1963 - 2012",
-			"text": "<p>Houston's voice caught the imagination of the world propelling her to superstardom at an early age becoming one of the most awarded performers of our time. This is a look into the amazing heights she achieved and her personal struggles with substance abuse and a tumultuous marriage.</p>"
+			"headline": "Joseph Weizenbaum: Creator of ELIZA<br/> 1923 - 2008",
+			"text": "<p>Joseph Weizenbaum was one of the first pioneers of artificial intelligence.</p>"
 		}
 	},
 	"events": [
 		{
 			"media": {
-				"url": "https://s.abcnews.com/images/Entertainment/whitney-cissy-dionne-gty-er-180711_hpEmbed_21x16_992.jpg",
-				"caption": "Houston's with her mother and Gospel singer, Cissy Houston and cousin Dionne Warwick.",
-				"credit": "Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
+				"url": "http://www.ilmarefilm.org/archive/img/portfolio/fullsize/mutter_gross.jpg",
+				"caption": "Weizenbaum (left) with his mother and brother in Nazi Germany 1934.",
+				"credit": "ilmarefilm.org/:<a href='http://www.ilmarefilm.org/archive/weizenbaum_archiv_E.html'>archive</a>"
 			},
 			"start_date": {
 				"month": "8",
-				"day": "9",
-				"year": "1963"
+				"day": "1",
+				"year": "1923"
 			},
 			"text": {
-				"headline": "A Musical Heritage",
-				"text": "<p>Born in New Jersey on August 9th, 1963, Houston grew up surrounded by the music business. Her mother is gospel singer Cissy Houston and her cousins are Dee Dee and Dionne Warwick.</p>"
+				"headline": "A tribute",
+				"text": "<p>Joseph Weizenbaum was born in Berlin, Germany to Jewish parents. He and his family fled Nazi Germany in 1936, immigrating with his family to the United States.</p>"
 			}
 		},
 		{
