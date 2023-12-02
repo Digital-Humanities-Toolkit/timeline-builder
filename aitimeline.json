@@ -1,0 +1,31 @@
+{
+	"title": {
+		"media": {
+			"url": "//www.flickr.com/photos/tm_10001/2310475988/",
+			"caption": "I will change this image",
+			"credit": "flickr/<a href='http://www.flickr.com/photos/tm_10001/'>tm_10001</a>"
+		},
+		"text": {
+			"headline": "This heading too<br/> 1963 - 2012",
+			"text": "<p>Need to search some information to put in this para, and way to keep pictures.</p>"
+		}
+	},
+	"events": [
+		{
+			"media": {
+				"url": "https://s.abcnews.com/images/Entertainment/whitney-cissy-dionne-gty-er-180711_hpEmbed_21x16_992.jpg",
+				"caption": "caption of events , in media",
+				"credit": "Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
+			},
+			"start_date": {
+				"month": "8",
+				"day": "9",
+				"year": "1963"
+			},
+			"text": {
+				"headline": "Head line in media.",
+				"text": "<p>text in media.</p>"
+			}
+		}
+	]
+}
